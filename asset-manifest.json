@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-practice-coin-chart/static/css/main.f855e6bc.css",
-    "main.js": "/react-practice-coin-chart/static/js/main.c51d1d3e.js",
+    "main.js": "/react-practice-coin-chart/static/js/main.a2603849.js",
     "static/js/453.5fa94410.chunk.js": "/react-practice-coin-chart/static/js/453.5fa94410.chunk.js",
     "static/media/logo.svg": "/react-practice-coin-chart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-practice-coin-chart/index.html",
     "main.f855e6bc.css.map": "/react-practice-coin-chart/static/css/main.f855e6bc.css.map",
-    "main.c51d1d3e.js.map": "/react-practice-coin-chart/static/js/main.c51d1d3e.js.map",
+    "main.a2603849.js.map": "/react-practice-coin-chart/static/js/main.a2603849.js.map",
     "453.5fa94410.chunk.js.map": "/react-practice-coin-chart/static/js/453.5fa94410.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c51d1d3e.js"
+    "static/js/main.a2603849.js"
   ]
 }
