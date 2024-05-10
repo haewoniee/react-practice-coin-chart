@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-practice-coin-chart/static/js/main.5dcd2cad.js",
+    "main.js": "/react-practice-coin-chart/static/js/main.a131695e.js",
     "index.html": "/react-practice-coin-chart/index.html",
-    "main.5dcd2cad.js.map": "/react-practice-coin-chart/static/js/main.5dcd2cad.js.map"
+    "main.a131695e.js.map": "/react-practice-coin-chart/static/js/main.a131695e.js.map"
   },
   "entrypoints": [
-    "static/js/main.5dcd2cad.js"
+    "static/js/main.a131695e.js"
   ]
 }
