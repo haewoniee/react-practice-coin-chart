@@ -16,6 +16,9 @@ function Router({ theme }: RouterProps) {
         <Route path="/">
           <Coins />
         </Route>
+        <Route path="*">
+          <Coins />
+        </Route>
       </Switch>
     </BrowserRouter>
   );
